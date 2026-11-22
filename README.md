@@ -1,1 +1,3 @@
 # SCM_Tarek_Ziyad_Alrowaili
+## Change Control Process
+All modifications in this repository follow a structured change control workflow to maintain stability on the `main` branch. Proposed updates are first logged and tracked using GitHub Issues (such as Issue #1) with appropriate labels and assignees. Development takes place in isolated feature branches like `docs-update` rather than directly on `main`. Once changes are completed and committed with standardized tags, a Pull Request is opened to review and merge the updates back into the `main` branch, linking the final commit to close the corresponding issue.
